@@ -1084,7 +1084,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"100 Roads Museum"
+         "value":"100 Roads Museum Front"
         }, 
         {
          "name":"tilesetCopyright",
