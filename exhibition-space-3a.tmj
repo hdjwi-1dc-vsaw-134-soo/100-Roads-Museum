@@ -362,7 +362,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"exhibitions-space-3a.png"
+         "value":"exhibition-space-3a.png"
         }, 
         {
          "name":"mapName",
