@@ -7021,8 +7021,8 @@
           "name": "exit-to-exhibition-space-3a1",
           "visible": true,
           "x": 1313.53135313531,
-          "y": 561.789512284562,
-          "height": 206.820682068207,
+          "y": 553.368459652983,
+          "height": 215.241734699786,
           "properties": [
             {
               "name": "exitUrl",
@@ -8438,7 +8438,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "exhibition-space-3a-chunk-1-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-1-58ceb8ca.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8474,7 +8474,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "exhibition-space-3a-chunk-2-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-2-58ceb8ca.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8489,7 +8489,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "exhibition-space-3a-chunk-3-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-3-58ceb8ca.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8504,7 +8504,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "exhibition-space-3a-chunk-4-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-4-58ceb8ca.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8519,7 +8519,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "exhibition-space-3a-chunk-5-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-5-58ceb8ca.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8534,7 +8534,7 @@
     {
       "columns": 10,
       "firstgid": 1281,
-      "image": "exhibition-space-3a-chunk-6-dd365ad2.png",
+      "image": "exhibition-space-3a-chunk-6-58ceb8ca.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
